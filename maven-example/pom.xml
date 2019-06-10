@@ -2,15 +2,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0          http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jfrog.test</groupId>
-    <artifactId>multi</artifactId>
+    <artifactId>ROHIT</artifactId>
     <version>3.7-RELEASE</version>
     <packaging>pom</packaging>
     <name>Simple Multi Modules Build</name>
 
     <modules>
-        <module>multi1</module>
-        <module>multi2</module>
-        <module>multi3</module>
+        <module>R1</module>
+        <module>R2</module>
+        <module>R3</module>
     </modules>
 
     <properties>
